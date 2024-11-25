@@ -22,7 +22,7 @@ st.sidebar.title("ERP_ITM")
 
 # Variables de autenticación
 USER = "Lauralopez0508"
-PASSWORD = "Laur@2905."
+PASSWORD = "Laura0508"
 
 # Inicialización de variables globales
 if "auth" not in st.session_state:
